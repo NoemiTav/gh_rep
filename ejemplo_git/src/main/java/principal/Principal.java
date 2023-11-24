@@ -8,6 +8,8 @@ public class Principal {
 		
 		
 		System.out.println("ya se usar git");
+		String mivariable;
+		String mientero;
 		
 		
 		
