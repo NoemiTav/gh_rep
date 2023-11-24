@@ -7,7 +7,7 @@ public class Principal {
 		System.out.println("hola, git");
 		
 		
-		
+		System.out.println("ya se usar git");
 		
 		
 		
