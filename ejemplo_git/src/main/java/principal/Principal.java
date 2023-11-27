@@ -12,7 +12,8 @@ public class Principal {
 		String mientero;
 		
 		System.out.println("commit de github");
-		
+
+		String variable="String definida en Giithub";
 	}
 
 }
